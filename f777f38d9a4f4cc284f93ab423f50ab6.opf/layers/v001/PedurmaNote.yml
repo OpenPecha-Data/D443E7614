@@ -1,214 +1,214 @@
-id: 3b2df03d3c1a4cb5b3363639a5fbc14f
+id: a0fe78008d6840f3bbe5d07c9c24fa43
 annotation_type: PedurmaNote
 revision: '00001'
 annotations:
-  8d13f5e9cfd342fea49c1c69d87df12d:
+  9d872d7f5b384f5197a2f19390617742:
     span:
       start: 24
       end: 24
     collation_note: <«པེ་»«སྣར་»ལྟར་བཀོད།>
-  de4a6789381e4cb3ac1c3996623e238f:
+  c043ae25056a44789a09846d4129d666:
     span:
       start: 49
       end: 52
     collation_note: <«པེ་»«སྣར་»མྱུ།>
-  1d08701d81bc47b7aa240d8ebd077056:
+  a913bd02b4e94f3bae6066764b3c4784:
     span:
       start: 56
       end: 59
     collation_note: <«པེ་»པ།«སྣར་»བ།>
-  d63464251d3c47b6b2118fa8293a9ff6:
+  adedae16718143d6a89728f37890bed7:
     span:
       start: 266
       end: 271
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  f11fb825baee4ff79e667d920060781f:
+  6b83aef269a04744a99e84d6af78ae50:
     span:
       start: 323
       end: 328
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  09992ee6e208459597d81b0aa0ca34c2:
+  9a35a2999bd64662bb9cfebb8784fab6:
     span:
       start: 435
       end: 440
     collation_note: <«པེ་»«སྣར་»མ་ཧོ།>
-  d6ce2147fa9b4697ab62469fcc5611fb:
+  f897b8df2f6941f3b42cbb20f9010273:
     span:
       start: 668
       end: 671
     collation_note: <«པེ་»«སྣར་»ཀྱིས།>
-  631296debe214c01b757ec7159b37b1b:
+  ae3cba82b69648368f36beb2bed1fedb:
     span:
-      start: 871
-      end: 881
+      start: 872
+      end: 882
     collation_note: <«པེ་»«སྣར་»ཀྱི་གང་།>
-  70392241eba84654ad4d1cee79e27f5a:
+  9a9f83dbfc6e49d0acad4236e971384c:
     span:
-      start: 965
-      end: 968
+      start: 966
+      end: 969
     collation_note: <«པེ་»«སྣར་»པའང་།>
-  ec250bf34d584b90874d7126d8cf1a14:
+  5d0f51d7252345ab916cdbef06d5a321:
     span:
-      start: 1239
-      end: 1247
+      start: 1240
+      end: 1248
     collation_note: <«པེ་»«སྣར་»གྱུར་པ།>
-  9987fcd1ebe443b395601f418d1f3e65:
+  5691c9459ab4489592bd63e05cf950b4:
     span:
-      start: 1266
-      end: 1268
+      start: 1267
+      end: 1269
     collation_note: <«པེ་»«སྣར་» ལས།>
-  fbb8da724ce74c9fb0f51467c362b1b8:
+  dbc90459dba84567aafc0a273cd919cf:
     span:
-      start: 1386
-      end: 1391
+      start: 1387
+      end: 1392
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  c2e1ce32a7da42679beca05ecbfa58bc:
+  d8c6f7b91e9449739bd0e4ffdac6df81:
     span:
-      start: 1421
-      end: 1432
+      start: 1422
+      end: 1433
     collation_note: <«པེ་»«སྣར་»པའང་མ་ལགས་ལ།>
-  b480b500550a4e3dbaad0a37167ec85f:
+  d93a726e52be42cca7a4aa171fd58553:
     span:
-      start: 1438
-      end: 1443
+      start: 1439
+      end: 1444
     collation_note: <«པེ་»«སྣར་»བཞིན།>
-  befe0276dc994e258b9b836a56b91002:
+  b03166e914694653b9ba3f4c25376431:
     span:
-      start: 1658
-      end: 1662
+      start: 1659
+      end: 1663
     collation_note: <«པེ་»«སྣར་»རྣམས།>
-  feb92f7c2b22495483f991eaa722d77b:
+  2539feda19ef4d17adff3f04aff1bff7:
     span:
-      start: 1668
-      end: 1669
+      start: 1669
+      end: 1670
     collation_note: <«པེ་»«སྣར་»པར།>
-  9a88bc2522b0448a9d0dc790c625c9e0:
+  b60a2337b23a46608bcd482da30baf0c:
     span:
-      start: 1682
-      end: 1684
+      start: 1683
+      end: 1685
     collation_note: <«པེ་»«སྣར་»པར།>
-  89ade04c48164765a8f001e2e96196b7:
+  3929c344def5414483430f73ddb436b7:
     span:
-      start: 1779
-      end: 1784
+      start: 1780
+      end: 1785
     collation_note: <«པེ་»«སྣར་»སོགས།>
-  474329953e7c453a93db6498ca98d6e4:
+  9161a53e514c40ba9ef3602d6dc539a4:
     span:
-      start: 1827
-      end: 1832
+      start: 1828
+      end: 1833
     collation_note: <«སྣར་»བཞིར།>
-  8b58a081e33d48e1a8b0700541b0154d:
+  ff8ba6d097854c408e4f2c4b39f45d9c:
     span:
-      start: 1922
-      end: 1927
+      start: 1923
+      end: 1928
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  d5cd4eaa1748438eb34dce9bfc435466:
+  d1b7c5fb81c249e4a6748261681bc31e:
     span:
-      start: 1965
-      end: 1970
+      start: 1966
+      end: 1971
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  48c23956a54a4919b304e9a4adf2b607:
+  79192d18d6a24a80a5eeef5a8017f9d0:
     span:
-      start: 2253
-      end: 2262
+      start: 2255
+      end: 2264
     collation_note: <«པེ་»«སྣར་»ཀྱང་མེད།>
-  fee7b19f74b34e01ac9bd733fbcec4fe:
+  5ae696b3f3974b75a7d1a4845b7ad35e:
     span:
-      start: 2343
-      end: 2351
+      start: 2345
+      end: 2353
     collation_note: <«པེ་»«སྣར་»རུས་པའང་།>
-  7dcd9dc333124ae8b2544711245e390e:
+  5b3ccc39132f4950bb43059469c4b466:
     span:
-      start: 2447
-      end: 2452
+      start: 2449
+      end: 2454
     collation_note: <«པེ་»«སྣར་»བསྟེན།>
-  3b3376870ea64470a4491e867de58473:
+  5c8a2388f2104b5999053ce023916c2d:
     span:
-      start: 2489
-      end: 2491
+      start: 2491
+      end: 2493
     collation_note: <«པེ་»«སྣར་»ཀྱང་།>
-  c82f4ae12f2f42219b395eb6946915c5:
+  fb923ee299db4646890908e737aae189:
     span:
-      start: 2508
-      end: 2513
+      start: 2510
+      end: 2515
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  baf09403114442dbbe7a5e7b9c1a85af:
+  4cdbd89625a944a0a1463db50f34048e:
     span:
-      start: 2535
-      end: 2540
+      start: 2537
+      end: 2542
     collation_note: <«པེ་»«སྣར་»ཀྱི།>
-  0d14c82f3fb740e5acdd7493562751ca:
+  5d1f675a36494619bf75dd87683a53cb:
     span:
-      start: 2553
-      end: 2558
+      start: 2555
+      end: 2560
     collation_note: <«པེ་»«སྣར་»འཇུག>
-  4ddc435b48f94d48a52f8bac927e4d48:
+  24985d5c42a04965bfc325d8a76b7c80:
     span:
-      start: 2574
-      end: 2577
+      start: 2576
+      end: 2579
     collation_note: <«པེ་»«སྣར་»པ།>
-  065f04632a39459488c1bd0915f3d21e:
+  006b7cd4128c4eec93b0b051ef8e60d8:
     span:
-      start: 2639
-      end: 2645
+      start: 2641
+      end: 2647
     collation_note: <«པེ་»«སྣར་»དབྱེ།>
-  7a7185688d3048919dbc5a321bcc46bf:
+  3e6c6bec83184be5a836401505d9c933:
     span:
-      start: 2664
-      end: 2668
+      start: 2666
+      end: 2670
     collation_note: <«པེ་»«སྣར་»ཀྱིས།>
-  d15e5744face47d69979acbce341079c:
+  613422b2b7514ba69194c3d1519e40ea:
     span:
-      start: 2792
-      end: 2797
+      start: 2794
+      end: 2799
     collation_note: <«པེ་»«སྣར་»དགྲོལ།>
-  ebe2f431464948f6b810b10e810a328a:
+  6416f4d920ad4cdbadfd28c8820cdfa4:
     span:
-      start: 2813
-      end: 2817
+      start: 2815
+      end: 2819
     collation_note: <«པེ་»«སྣར་»ཀྱིས།>
-  c7fa63fc0df24bd8a2fa0010adf24fa4:
+  e8eb761c6e7e40bc8d334a6e2113eb2b:
     span:
-      start: 2908
-      end: 2912
+      start: 2910
+      end: 2914
     collation_note: <«པེ་»«སྣར་»བ།>
-  1df6d18ada4847a38a1c438bfec8e10a:
+  983f833b4b034ba6a4943579172f2c9a:
     span:
-      start: 2955
-      end: 2958
+      start: 2957
+      end: 2960
     collation_note: <«པེ་»«སྣར་»ཀྱང་།>
-  420ca4daae764f2eafb971ed8a469adb:
+  f4c71a0d35df4ffeb87161479eae9b29:
     span:
-      start: 3029
-      end: 3033
+      start: 3031
+      end: 3035
     collation_note: <«པེ་»«སྣར་»ཀྱིས།>
-  a13f130adf8e403f909668fea5c80c69:
+  c4501350b9be4dc1aca39fc9afa2d9b8:
     span:
-      start: 3153
-      end: 3156
+      start: 3155
+      end: 3158
     collation_note: <«པེ་»«སྣར་»དེ་ལྟར་བདེ་...ལས་བདག་གི།>
-  46ef14d00a224f1786ec94b4ee7548ba:
+  8c1811c7f8ce4d5f95a673287fbf54f4:
     span:
-      start: 3185
-      end: 3189
+      start: 3187
+      end: 3191
     collation_note: <«པེ་»«སྣར་»འདིས།>
-  d6ebb034fe5449c98e8c03e3d9e1b22f:
+  41ee4ab6f59346dbba4ef46583b76601:
     span:
-      start: 3295
-      end: 3303
+      start: 3297
+      end: 3305
     collation_note: <«པེ་»«སྣར་»-འཕགས་པ།>
-  8be5b1dbb56f4dc89b5be37161506643:
+  782410967cc44cb196036cbc586aec57:
     span:
-      start: 3358
-      end: 3364
+      start: 3362
+      end: 3368
     collation_note: <«པེ་»ཀྲི།«སྣར་»ཀྲྀཥྛ།>
-  dec67c61d0234945becde6f30c9cf41b:
+  eec24fe88f6947bfbadf632b0b01a3e1:
     span:
-      start: 3385
-      end: 3395
+      start: 3389
+      end: 3399
     collation_note: <«པེ་»«སྣར་»-དགེ་སློང་།>
-  0da95000f9a34f5480beff80f0085744:
+  20e0511eafc74bbbaf4691bef0b6ee21:
     span:
-      start: 3426
-      end: 3426
+      start: 3430
+      end: 3430
     collation_note: <«པེ་»+མངྒ་ལཾ།།>
